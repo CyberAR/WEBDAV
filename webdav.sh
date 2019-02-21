@@ -1,4 +1,7 @@
 #!/bin/bash
+#Create By CyberAR 
+#ShieldCy TeAm
+#Berkarya Sendiri Biar Jadi Mastah:v
 clear
 echo "
 
